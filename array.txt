@@ -1,0 +1,52 @@
+<page>
+    <title>Gandhi Before India</title>
+    <ns>0</ns>
+    <id>42592434</id>
+    <revision>
+      <id>906867682</id>
+      <parentid>873853791</parentid>
+      <timestamp>2019-07-18T20:19:39Z</timestamp>
+      <contributor>
+        <username>Rich Farmbrough</username>
+        <id>82835</id>
+      </contributor>
+      <minor />
+      <comment>/* top */Date formats</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Use dmy dates|date=July 2019}}
+&lt;!-- Please expand this article using sources listed in the talk page. --&gt;
+{{Infobox book
+| name = Gandhi Before India
+| image = Gandhi Before India.jpg
+| caption = First edition
+| author = [[Ramachandra Guha]]
+| country = India
+| subject = Biography
+| published = 2 October 2013 ([[Penguin India]])
+| pages = 688
+| isbn = 9780670083879
+}}
+'''''Gandhi Before India''''' is a 2013 book by the Indian historian [[Ramachandra Guha]], the first part of a planned two-volume biography of [[Mohandas Karamchand Gandhi]]. The book deals with Gandhi's life up to his return to India following a 21-year period as a lawyer and civil-rights activist in [[South Africa]]. During this period in [[South Africa]], [[Mohandas Karamchand Gandhi|Gandhi]] experienced discrimination that all coloured people there faced, including the Indian community he became a part of. In response to the government's policies developed ''[[Satyagraha]]'', a form of protest that translates loosely to &quot;truth force&quot;.&lt;ref&gt;{{cite book |last1=Guha |first1=Ramchandra |title=Gandhi before India |date=5 April 2014 |publisher=Knopf; F |isbn=9780385532297}}&lt;/ref&gt;
+
+''Gandhi Before India'' was first published by [[Penguin India]] on 2 October 2013, [[Gandhi Jayanthi|Gandhi's birth anniversary]]. The book's title alludes to Guha's ''[[India After Gandhi]]'' (2007). ''Gandhi Before India'' was mostly well received by critics, both in the mainstream media and in scholarly journals.&lt;ref name=&quot;off&quot;&gt;{{cite web |title=About the author - books written |url=http://ramachandraguha.in/about-the-author |website=www.ramachandraguha.in |publisher=Ramchandra Guha (official website) |accessdate=16 November 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.penguinbooksindia.com/en/content/gandhi-india ''Gandhi Before India''] at [[Penguin India]]
+*[http://www.randomhouse.com/book/196333/gandhi-before-india-by-ramachandra-guha ''Gandhi Before India''] at [[Random House]]
+
+[[Category:2013 non-fiction books]]
+[[Category:Biographies about politicians]]
+[[Category:Indian biographies]]
+[[Category:Cultural depictions of Mahatma Gandhi]]
+[[Category:Penguin Books books]]
+[[Category:21st-century Indian books]]
+
+
+{{India-poli-book-stub}}</text>
+      <sha1>lojifcqg7bajh9ixl54ahvtmk9t7iwo</sha1>
+    </revision>
+</page>
