@@ -272,14 +272,7 @@ class WikiHandler(sax.ContentHandler):
             self.fileId+=1
 
     def startDocument(self):
-        pass
-#         if not os.path.isdir('alphabet_dir'):
-#             o
-/IRE/Submission/
-Name
-Last Modified
-
-s.mkdir('alphabet_dir')
+        os.mkdir('alphabet_dir')
 #         for i in alphabet_lis:
 #             open('alphabet_dir/'+i,'w+').close()
 
